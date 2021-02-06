@@ -1,3 +1,5 @@
+//This solution is not right anymore, you also need check connected components after OJ test cases updated.
+
 // Time:  O(n)
 // Space: O(n)
 
